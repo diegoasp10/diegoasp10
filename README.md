@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Cloud Data Analyst<br>👯 I’m looking to collaborate on with other developers that helps me to improve my skills<br>🌱 I constantly focus on studying new technologies or tools to improve my knowledge.<br>💬 Ask me about AWS Analytics Services<br>🏊 I love sports, I am a swimmer with fins 
+🔭 I’m currently working as a Cloud Data Analyst<br>👯 I’m looking to collaborate with other developers that helps me to improve my skills<br>🌱 I constantly focus on studying new technologies or tools to improve my knowledge.<br>💬 Ask me about AWS Analytics Services<br>🏊 I love sports, I am a finswimmer.
 
 
 ## 🌐 Socials:
