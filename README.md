@@ -1,6 +1,6 @@
 <h1> Hi! How are you?</h1>
 
-<p> My name is Diego and I'm a Cloud Data Analyst, from <b>Bogotá, Colombia.</b>. </p>
+<p> My name is Diego and I'm a Cloud Data Analyst, from 🇨🇴 <b>Bogotá, Colombia</b>. </p>
 
 ## About me
 
