@@ -1,24 +1,43 @@
-# 💫 About Me:
-🔭 I’m currently working as a Cloud Data Analyst<br>👯 I’m looking to collaborate with other developers that helps me to improve my skills<br>🌱 I constantly focus on studying new technologies or tools to improve my knowledge<br>💬 Ask me about AWS Analytics Services<br>🏊 I love sports, I'm a finswimmer
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+###
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100000579970376) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diegoasp10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-andr%C3%A9s-saavedra-p%C3%A9rez-038996239/)
+<img align="right" height="150" src="https://media.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif"  />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=diegoasp10&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=diegoasp10&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoasp10&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) 
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=diegoasp10&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=diegoasp10&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=diegoasp10&icon=2&color=3)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="www.linkedin.com/in/diego-andrés-saavedra-pérez-038996239" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/23222025/diegoasp10" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="diegoasp10" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
