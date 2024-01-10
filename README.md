@@ -9,7 +9,7 @@
 - 🎯 Goals: become a data scientist 🚀 and go to a Nordic country ❄
 - 🎲 And ... I'm a finswimmer 🏊 and 🎮 love videogames.
 
-## I code with
+## I worked with
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
